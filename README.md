@@ -30,6 +30,7 @@ Before working in Public Health, I did a PhD in **Particle Physics** at Edinburg
   <img src="https://github.com/devicons/devicon/blob/master/icons/tex/tex-original.svg" title="TeX" alt="TeX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle (SQL)" alt="oracle (SQL)" width="40" height="40"/>&nbsp;
 </div>
 
 ### Basic
