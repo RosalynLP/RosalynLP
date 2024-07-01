@@ -49,5 +49,13 @@ Before working in Public Health, I did a PhD in **Particle Physics** at Edinburg
 
 ![Rosalyn's GitHub](https://github-readme-stats.vercel.app/api?username=RosalynLP&show_icons=true&theme=graywhite&show=prs_merged&rank_icon=)
 
+![Snake animation](https://github.com/RosalynLP/RosalynLP/blob/output/github-contribution-grid-snake.svg)
+
+## About me
+
+* :house: I live in Edinburgh and love going on walks around town and further afield
+* In my spare time I do weightlifting 🏋️ and rugby 🏉
+* I also enjoy reading :books: - recommend me a book! 
+
 
 
