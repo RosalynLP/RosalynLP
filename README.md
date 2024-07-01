@@ -5,15 +5,15 @@
 
 ## My work
 I'm a Senior Information Analyst at **Public Health Scotland**
-* I currently work in the [**eDRIS**](https://publichealthscotland.scot/services/data-research-and-innovation-services/electronic-data-research-and-innovation-service-edris/overview/what-is-edris/) team - extracting, linking and preparing NHS data for use by trusted researchers [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Public-Health-Scotland&repo=dose_instructions_parser&theme=shadow_green)](https://github.com/Public-Health-Scotland/dose_instructions_parser)
-* Before this I worked in **COVID-19 Data & Analytics** doing public reporting during the pandemic [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Public-Health-Scotland&repo=covid-19_respiratory_surveillance_dashboard&theme=shadow_green)](https://github.com/Public-Health-Scotland/covid-19_respiratory_surveillance_dashboard) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RosalynLP&repo=friendlyloader&theme=shadow_green)](https://github.com/RosalynLP/friendlyloader)
-* I have also done some work with the **Waiting Times** team creating a dashboard to assess Clinical Prioritisation [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Public-Health-Scotland&repo=Waiting_Times_Clinical_Prioritisation&theme=shadow_green)](https://github.com/Public-Health-Scotland/Waiting_Times_Clinical_Prioritisation)
-* Here is a demo Shiny app I created based on PHS open data for the Scottish Drug Misuse Dataset [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RosalynLP&repo=sdmd_exploration&theme=shadow_green)](https://github.com/RosalynLP/sdmd_exploration)
+* I currently work in the [**eDRIS**](https://publichealthscotland.scot/services/data-research-and-innovation-services/electronic-data-research-and-innovation-service-edris/overview/what-is-edris/) team - extracting, linking and preparing NHS data for use by trusted researchers [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Public-Health-Scotland&repo=dose_instructions_parser&theme=ambient_gradient)](https://github.com/Public-Health-Scotland/dose_instructions_parser)
+* Before this I worked in **COVID-19 Data & Analytics** doing public reporting during the pandemic [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Public-Health-Scotland&repo=covid-19_respiratory_surveillance_dashboard&theme=ambient_gradient)](https://github.com/Public-Health-Scotland/covid-19_respiratory_surveillance_dashboard) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RosalynLP&repo=friendlyloader&theme=ambient_gradient)](https://github.com/RosalynLP/friendlyloader)
+* I have also done some work with the **Waiting Times** team creating a dashboard to assess Clinical Prioritisation [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Public-Health-Scotland&repo=Waiting_Times_Clinical_Prioritisation&theme=ambient_gradient)](https://github.com/Public-Health-Scotland/Waiting_Times_Clinical_Prioritisation)
+* Here is a demo Shiny app I created based on PHS open data for the Scottish Drug Misuse Dataset [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RosalynLP&repo=sdmd_exploration&theme=ambient_gradient)](https://github.com/RosalynLP/sdmd_exploration)
 
 Before working in Public Health, I did a PhD in **Particle Physics** at Edinburgh Uni, where I worked in the [**NNPDF**]([https://github.com/NNPDF/nnpdf](https://nnpdf.mi.infn.it/)) collaboration. 
-* Here is a link to our main code for calculating parton distribution functions using neural networks [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NNPDF&repo=nnpdf&theme=shadow_green)](https://github.com/NNPDF/nnpdf)
-* These are some repos for calculating deuteron and nuclear corrections to parton distribution functions [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RosalynLP&repo=nuclear_covmat&theme=shadow_green)](https://github.com/RosalynLP/nuclear_covmat) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RosalynLP&repo=deuteron_corrections&theme=shadow_green)](https://github.com/RosalynLP/deuteron_corrections)
-* This is the source for my [thesis](https://era.ed.ac.uk/handle/1842/38570?show=full), entitled "Theory uncertainties in parton distribution functions"  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RosalynLP&repo=thesis&theme=shadow_green)](https://github.com/RosalynLP/thesis) 
+* Here is a link to our main code for calculating parton distribution functions using neural networks [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NNPDF&repo=nnpdf&theme=ambient_gradient)](https://github.com/NNPDF/nnpdf)
+* These are some repos for calculating deuteron and nuclear corrections to parton distribution functions [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RosalynLP&repo=nuclear_covmat&theme=ambient_gradient)](https://github.com/RosalynLP/nuclear_covmat) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RosalynLP&repo=deuteron_corrections&theme=ambient_gradient)](https://github.com/RosalynLP/deuteron_corrections)
+* This is the source for my [thesis](https://era.ed.ac.uk/handle/1842/38570?show=full), entitled "Theory uncertainties in parton distribution functions"  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RosalynLP&repo=thesis&theme=ambient_gradient)](https://github.com/RosalynLP/thesis) 
 
 ## Languages
 
@@ -45,9 +45,9 @@ Before working in Public Health, I did a PhD in **Particle Physics** at Edinburg
 
 ## Some stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosalynLP&&hide_progress=true&theme=shadow_green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosalynLP&&hide_progress=true&theme=ambient_gradient)
 
-![Rosalyn's GitHub](https://github-readme-stats.vercel.app/api?username=RosalynLP&show_icons=true&theme=shadow_green&show=prs_merged&rank_icon=)
+![Rosalyn's GitHub](https://github-readme-stats.vercel.app/api?username=RosalynLP&show_icons=true&theme=ambient_gradient&show=prs_merged&rank_icon=)
 
 
 
