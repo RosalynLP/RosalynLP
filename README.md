@@ -65,6 +65,11 @@ Before working in Public Health, I did a PhD in **Particle Physics** at Edinburg
 
 </details>
 
+## I am learning...
+
+* Typst
+* Quarto
+
 ## About me
 
 * :house: I live in Edinburgh and love going on walks around town and further afield
