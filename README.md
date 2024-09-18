@@ -1,10 +1,10 @@
 # Hiya 👋 I'm Rosalyn
-😄 **Pronouns:** they/she
-
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlvOHpncXZsZXlseWNrNmF1MXI5anNnbmh4MGRtbWN0dXg3enNqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcigl4eOfc6hA5y/giphy.gif" width="150"> 
 
 ## My work
-I'm a Senior Information Analyst at **Public Health Scotland**
+I'm a Data Analyst in the **Centre for Medical Informatics** at the **Usher Institute**, University of Edinburgh.
+
+Previously I worked at **Public Health Scotland**
 
 <details>
   
